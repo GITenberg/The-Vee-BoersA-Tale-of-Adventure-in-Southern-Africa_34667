@@ -25,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6260
     wikipedia: http://en.wikipedia.org/wiki/Mayne_Reid
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34667#The-Vee-BoersA-Tale-of-Adventure-in-Southern-Africa
 gutenberg_issued: '2010-12-15'
 gutenberg_type: Text
 identifiers:
